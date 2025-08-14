@@ -1,4 +1,4 @@
-# Post-A/B test analysis for ML job ranking algorithm
+# Post-A/B test analysis for ML job ranking (Jooble-like aggregator)
 
 ### **Idea**: 
 1. To generate a [realistic dataset](jooble_ml_ab_test_data_generated.rar) for a performed A/B-test related to *testing a new ML-based job ranking algorithm vs. basic one* with following metrics:
@@ -61,8 +61,5 @@
    Combines statistical outputs and visualizations into a formatted Excel report using custom layout logic.
 
 ---
-
-I enjoyed doing this work and hope I've shown enough interest in working with Jooble.  
-Together, we’ll redefine what’s possible in the job aggregator space! 🙌😊
 
 [**LinkedIn**](https://www.linkedin.com/in/dvyemchuk/) | [**Telegram**](https://t.me/ddgrrey)
